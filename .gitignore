@@ -1,5 +1,5 @@
 # exclude everything
-flagged/
+flagged/*
 
 # exception to the rule
 !flagged/.gitkeep
